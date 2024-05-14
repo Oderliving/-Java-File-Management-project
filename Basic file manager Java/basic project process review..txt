@@ -1,0 +1,12 @@
+this was a great experience to see how the coding goes for gpt 3.5, I shall try my best to use 4 moving forth to see and vouch for differences in capability.
+if i was to strike a reference for gpt 3.5 to a person it would be a 5 year old who has just started understanding people. a 5 year old with all available info on the internet.
+precise instructions must be made, and considerations must be had. this is an ai, it does not invent. it is susceptible to redundancy, extremely so. deleting or finding a solution that includes rooting out the main problem is scarcely seen. follow ups and read ups must be included. you ahve to keep track of code functionality without fail. failure to understand the code will lead to catastrophic utilization.
+as the project went on and on gpt got laggier, although this can be referenced to the scale of the processes taking place.
+experience in overall 7/10
+rate of code that was written which i knew 4.5/10 but i couldn't implement it because i was out of touch.
+utility 9/10.
+time it took about 6 hours.
+too much time, due to my incompetence... kek.
+this is the link to the gpt experience, https://chat.openai.com/share/ebcf3046-a26d-4fa8-a481-7ee30b919944 
+
+p.s: I had to keep after the ai to write the code, method by method lmao.
