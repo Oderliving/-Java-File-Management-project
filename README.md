@@ -1,0 +1,1 @@
+to start the code run startupUI. there are no external dependencies, everything is internalized. code is messed up here and there but we move. this is a code greatly dependent on ai coding capabilities, i only interfered in the coding process where the ai kept adding oil to the fire hoping to drown it out. kek.
